@@ -8,6 +8,8 @@ nav:
                 - 'Sign Up': 'files/free.md'
                 - 'Hello World': 'files/free-helloworld.md'
                 - 'Test CLI': 'files/free-cli.md'
+        - 'Roadmap':
+                - 'Projects': 'files/roadmap-projects.md'
         - 'Admin':
                 - 'Install Control Plane':
                         - 'Introduction': 'files/install-intro.md'
